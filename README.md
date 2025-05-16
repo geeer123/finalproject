@@ -17,10 +17,13 @@ This API processes a given text string by:
 # Getting Started
 
 1. Clone the Repository
+   
 https://github.com/geeer123/finalproject.git
 
 2. Install Dependencies
+   
 npm install
 
 3. Start the Dev Server
+   
 npm run dev -- --open
