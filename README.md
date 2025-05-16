@@ -1,10 +1,8 @@
 # finalproject
 This API processes a given text string by:
 
-1. Splitting the sentence into words.
-2. Matching each word against a built-in sentiment lexicon.
-3. Summing the sentiment values of the words.
-4. Returning:
+1. Summing the sentiment values of the words.
+2. Returning:
    - A **sentiment label**: `"positive"`, `"neutral"`, or `"negative"`
    - A **numeric score** (positive > 0, neutral = 0, negative < 0)
 
