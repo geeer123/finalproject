@@ -19,7 +19,7 @@ This API processes a given text string by:
 # Getting Started
 
 # Clone the Repository
-git clone https://github.com/your-org/your-repo.git
+[git clone https://github.com/your-org/your-repo.git](https://github.com/geeer123/finalproject.git)
 
 2. Install Dependencies
 npm install
